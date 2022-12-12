@@ -1,0 +1,16 @@
+{
+  "name": "aoc2022",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1": "nodemon days/01.js"
+  },
+  "keywords": [],
+  "author": "rollen1",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
