@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day1": "nodemon days/01.js"
+    "day1": "nodemon days/01.js",
+    "day2": "nodemon days/02.js"
   },
   "keywords": [],
   "author": "rollen1",
