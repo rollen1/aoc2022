@@ -7,7 +7,8 @@
   "scripts": {
     "day1": "nodemon days/01.js",
     "day2": "nodemon days/02.js",
-    "day3": "nodemon days/03.js"
+    "day3": "nodemon days/03.js",
+    "day4": "nodemon days/04.js"
   },
   "keywords": [],
   "author": "rollen1",
